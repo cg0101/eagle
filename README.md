@@ -1,6 +1,6 @@
 # eagle-eye
 
-面向SAAS应用的日志统计与数据跟踪模块，基于 Typescript
+面向SAAS应用的日志统计与数据跟踪模块，基于 Typescript ,在60万家企业中应用实践
 
 ### Usage
 
