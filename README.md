@@ -1,4 +1,6 @@
-# eagle-eye
+# eagle
+
+The log statistics and data tracking module for SaaS application, based on typescript, has been applied in 600000 enterprises 
 
 面向SAAS应用的日志统计与数据跟踪模块，基于 Typescript ,在60万家企业中应用实践
 
